@@ -35,9 +35,9 @@
 
 <div align="start"> 
   
-<a href="https://www.python.org/" target="_blank"><img style="margin: 20px" src="https://github.com/user-attachments/assets/3fc83f6d-22db-41c1-883b-1c31622748f3" alt="Python" height="50" /></a>     
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 20px" src="https://github.com/user-attachments/assets/96e07d28-6d16-4ebf-8312-65a601d88660" alt="MySQL" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 20px" src="https://www.php.net/images/logos/php-logo-white.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/3fc83f6d-22db-41c1-883b-1c31622748f3" alt="Python" height="30"/></a>     
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/96e07d28-6d16-4ebf-8312-65a601d88660" alt="MySQL" height="30" /></a>  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://www.php.net/images/logos/php-logo-white.svg" alt="MySQL" height="50" /></a>  
  
 </div>
 
