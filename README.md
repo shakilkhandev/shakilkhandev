@@ -1,18 +1,17 @@
-<div align="right">
-<img src="https://github.com/user-attachments/assets/5288ff42-7ecf-4e19-a28c-2d0de829e729" align="center" style="width: 100%" />
+<div align="center style="width:70 ; height :30 ">
+<img src="https://github.com/user-attachments/assets/5288ff42-7ecf-4e19-a28c-2d0de829e729" align="center" />
 </div>
 
-### _<div align="center">Hi I'm Shakil Khan 👋 I'm a full-stack developer and entrepreneur passionate about creating solutions. </div>_
+### _<div align="center">Hi I'm Shakil Khan <br>👋 I'm a full-stack developer and entrepreneur passionate about creating solutions. </div>_
 
 <p align="left">
 🎓 Recent  learning PHP || LARAVEL || VUE  
 
 ###
-
+<hr>
 <h2 align="left">💻 Tech Stacks 💻</h2>
 
-### Frontend
-
+<h2>  Frontend   :   </h2>
 <div align="center" >  
 <a href="https://laravel.com/" target="_blank"><img style="margin: 20px" src="https://laravel.com/img/logomark.min.svg" alt="Laravel" height="50" /></a>  
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 20px" src="https://1.bp.blogspot.com/-9VbbVQftGig/V43fyud5x2I/AAAAAAAAAD0/8zbribQUI9Y7k_o6gYJJWn4Q3ErBuwyJACEw/s1600/logo_vue.png" alt="Laravel" height="50" /></a>
@@ -21,12 +20,13 @@
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
 </div>
-### Backend
-<div align="start"> 
+<h2>Backend : </h2>
+<div align="center"> 
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/3fc83f6d-22db-41c1-883b-1c31622748f3" alt="Python" height="30"/></a>     
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/96e07d28-6d16-4ebf-8312-65a601d88660" alt="MySQL" height="30" /></a>  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://www.php.net/images/logos/php-logo-white.svg" alt="MySQL" height="20" /></a>  
 </div>
+
 ## Statistic
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakilkhandev&layout=compact&hide_border=true&theme=transparent" align="center" />
