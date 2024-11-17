@@ -1,4 +1,4 @@
-<div align="center">
+<div align="right">
 <img src="https://github.com/user-attachments/assets/5288ff42-7ecf-4e19-a28c-2d0de829e729" align="center" style="width: 100%" />
 </div>
 
@@ -13,9 +13,8 @@
 
 ### Frontend
 
-<div align="start">  
+<div align="center" >  
 <a href="https://laravel.com/" target="_blank"><img style="margin: 20px" src="https://laravel.com/img/logomark.min.svg" alt="Laravel" height="50" /></a>  
-
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 20px" src="https://1.bp.blogspot.com/-9VbbVQftGig/V43fyud5x2I/AAAAAAAAAD0/8zbribQUI9Y7k_o6gYJJWn4Q3ErBuwyJACEw/s1600/logo_vue.png" alt="Laravel" height="50" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 20px" src="https://github.com/user-attachments/assets/6803db10-bf25-433d-a91b-8e5ed5ac7699" alt="JavaScript" height="50" /></a>    
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
