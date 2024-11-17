@@ -22,12 +22,13 @@
 </div>
 <h2>Backend : </h2>
 <div align="center"> 
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/3fc83f6d-22db-41c1-883b-1c31622748f3" alt="Python" height="30"/></a>     
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/96e07d28-6d16-4ebf-8312-65a601d88660" alt="MySQL" height="30" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://www.php.net/images/logos/php-logo-white.svg" alt="MySQL" height="20" /></a>  
+<a href="https://laravel.com/" target="_blank"><img style="margin: 20px" src="https://laravel.com/img/logomark.min.svg" alt="Laravel" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/96e07d28-6d16-4ebf-8312-65a601d88660" alt="MySQL" height="50" /></a>  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://www.php.net/images/logos/php-logo-white.svg" alt="MySQL" height="50" /></a>  
 </div>
 
 ## Statistic
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakilkhandev&layout=compact&hide_border=true&theme=transparent" align="center" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=shakilkhandev&theme=transparent&hide_border=true" align="center" />
