@@ -2,7 +2,7 @@
 <img src="https://github.com/user-attachments/assets/5288ff42-7ecf-4e19-a28c-2d0de829e729" align="center" />
 </div>
 
-### _<div align="center">Hi I'm Shakil Khan <br>👋 I'm a full-stack developer and entrepreneur passionate about creating solutions. </div>_
+### _<div align="center">Hi I'm Shakil Khan <br>👋 I am  a lifetime learner and entrepreneur passionate about creating solutions. </div>_
 
 <p align="left">
 🎓 Recent  learning PHP || LARAVEL || VUE  
@@ -18,7 +18,8 @@
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 20px" src="https://github.com/user-attachments/assets/6803db10-bf25-433d-a91b-8e5ed5ac7699" alt="JavaScript" height="50" /></a>    
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
+<a href="https://sass-lang.com/" target="_blank"><img style="margin: 20px"
+ src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
 </div>
 <h2>Backend : </h2>
 <div align="center"> 
