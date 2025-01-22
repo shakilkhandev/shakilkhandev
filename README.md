@@ -4,6 +4,7 @@
 
 ### _<div align="center">Hi I'm Shakil Khan <br>👋 I am  a lifetime learner and entrepreneur passionate about creating solutions. </div>_
 
+
 <p align="left">
 🎓 Recent  learning PHP || LARAVEL || VUE  
 
@@ -32,5 +33,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakilkhandev&layout=compact&hide_border=true&theme=transparent" align="center" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shakilkhandev&theme=transparent&hide_border=true" align="center" />
+  
+ 
 </div>  
