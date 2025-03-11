@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/5288ff42-7ecf-4e19-a28c-2d0de829e729" width="70" height="30" />
-</div>
+
 
 ### _<div align="center">Hi, I'm Shakil Khan 👋 <br> Currently Learning ReactJS 🚀</div>_
 
