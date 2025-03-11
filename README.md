@@ -2,7 +2,7 @@
 <img src="https://github.com/user-attachments/assets/5288ff42-7ecf-4e19-a28c-2d0de829e729" align="center" />
 </div>
 
-### _<div align="center">Hi I'm Shakil Khan <br>Currently Learning Vue JS </div>_
+### _<div align="center">Hi I'm Shakil Khan <be>           Currently Learning Vue JS          </div>_
 
 
 <p align="left">
