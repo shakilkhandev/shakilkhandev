@@ -36,7 +36,10 @@
 ---
 
 ### ⚙️ Backend  
-<div align="center" style="display: flex; gap: 15px; flex-wrap: wrap;">
+<div align="center" style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://nodejs.org/static/logos/nodejsStackedDark.svg" alt="Nodejs" height="50" />
+  </a>  
   <a href="https://laravel.com/" target="_blank">
     <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" height="50" />
   </a>  
