@@ -13,12 +13,12 @@
 
 ### 🖥 Frontend  
 <div align="center" style="display: flex; gap: 15px; flex-wrap: wrap;">
-  <a href="https://laravel.com/" target="_blank">
-    <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" height="50" />
-  </a>  
   <a href="https://react.dev/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" height="50" />
   </a>
+  <a href="https://laravel.com/" target="_blank">
+    <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" height="50" />
+  </a>  
   <a href="https://vuejs.org/" target="_blank">
     <img src="https://vuejs.org/images/logo.png" alt="Vue.js" height="50" />
   </a>
